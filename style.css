@@ -1,0 +1,35 @@
+body {
+    background-image: url(mike-fox-HEMYBPd05Sk-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right 0px bottom -245px;
+    background-attachment: fixed;
+    background-color: rgb(184, 184, 184);
+    
+
+}
+
+.mainCard {
+    padding-top: 10em;
+}
+
+.aboutCard {
+    padding-top: 4em;
+}
+
+.aboutSize {
+    max-width: 100%;
+    height: auto;
+}
+
+.projectCards {
+    padding-top: 1em;
+}
+
+.singleProj {
+    margin: 2px;
+}
+
+.card-color {
+    background-color: rgb(177, 176, 176);
+}
