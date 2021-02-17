@@ -14,7 +14,7 @@ body {
 }
 
 .aboutCard {
-    padding-top: 5em;
+    padding-top: 4em;
 }
 
 .aboutSize {
@@ -24,10 +24,6 @@ body {
 
 .projectCards {
     padding-top: 1em;
-}
-
-#projectCardBG {
-    background: rgba(184, 184, 184, .75)
 }
 
 .singleProj {
