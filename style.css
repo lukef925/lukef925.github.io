@@ -33,3 +33,15 @@ body {
 .card-color {
     background-color: rgb(177, 176, 176);
 }
+
+@media (max-width: 700px) {
+    body {
+    background-image: url(mike-fox-HEMYBPd05Sk-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right 0px bottom -50px;
+    background-attachment: fixed;
+    background-color: rgb(184, 184, 184);
+    }
+    
+}
